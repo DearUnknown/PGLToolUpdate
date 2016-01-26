@@ -18,4 +18,9 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\PGLData\PGLData\bin\Debug\PGLData.exe">
+      <Filter>Resource Files</Filter>
+    </None>
+  </ItemGroup>
 </Project>

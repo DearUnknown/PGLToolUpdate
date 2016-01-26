@@ -147,6 +147,9 @@
   <ItemGroup>
     <ClCompile Include="PGLToolUpdate.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\PGLData\PGLData\bin\Debug\PGLData.exe" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
