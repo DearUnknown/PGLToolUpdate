@@ -3,7 +3,6 @@
 
 void main()
 {
-	int a;
     return ;
 }
 
