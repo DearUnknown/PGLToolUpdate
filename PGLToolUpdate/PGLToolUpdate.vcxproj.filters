@@ -20,6 +20,9 @@
     <ClCompile Include="PGLToolUpdate.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="hehe.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <None Include="..\..\PGLData\PGLData\bin\Debug\Data\oras\oras-13-20160113-000024.mdb">
