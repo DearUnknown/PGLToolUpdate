@@ -22,14 +22,14 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\PGLData\PGLData\bin\Debug\v1.0.zip">
-      <Filter>Resource Files</Filter>
-    </None>
     <None Include="..\..\PGLData\PGLData\bin\Debug\Data\oras\oras-13-20160113-000024.mdb">
       <Filter>Resource Files\oras</Filter>
     </None>
     <None Include="..\..\PGLData\PGLData\bin\Debug\Data\oras\oras-14-20160120-000023.mdb">
       <Filter>Resource Files\oras</Filter>
+    </None>
+    <None Include="..\..\PGLData\PGLData\bin\Debug\v1.0.zip">
+      <Filter>Resource Files</Filter>
     </None>
   </ItemGroup>
 </Project>
