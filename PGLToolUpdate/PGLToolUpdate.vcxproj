@@ -148,7 +148,9 @@
     <ClCompile Include="PGLToolUpdate.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="..\..\PGLData\PGLData\bin\Debug\PGLData.exe" />
+    <None Include="..\..\PGLData\PGLData\bin\Debug\Data\oras\oras-13-20160113-000024.mdb" />
+    <None Include="..\..\PGLData\PGLData\bin\Debug\Data\oras\oras-14-20160120-000023.mdb" />
+    <None Include="..\..\PGLData\PGLData\bin\Debug\v1.0.zip" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
