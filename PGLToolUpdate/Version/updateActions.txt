@@ -1,2 +1,2 @@
-beta1.1/PGLData.exe
+beta1.2/PGLData.exe
 PGLData.exe
