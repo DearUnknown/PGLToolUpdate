@@ -1,8 +1,8 @@
 // PGLToolUpdate.cpp : Defines the entry point for the console application.
 #include "stdio.h"
 
-void main()
+int  main()
 {
-    return ;
+    return 0;
 }
 
