@@ -1,1 +1,0 @@
-This is a test which is set up at 16:57, 1/31/2016, from EC2.
