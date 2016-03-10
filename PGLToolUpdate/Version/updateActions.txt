@@ -1,4 +1,4 @@
-v1.1/PGLData.exe
+v1.2/PGLData.exe
 PGLData.exe
-v1.1/PGLData.exe.Config
+v1.2/PGLData.exe.Config
 PGLData.exe.Config
