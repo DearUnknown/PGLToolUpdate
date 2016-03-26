@@ -1,0 +1,15 @@
+v1.4/PGLData.exe
+PGLData.exe
+v1.4/PGLToolUpdateV1.0.exe
+Update/PGLToolUpdateV1.0.exe
+xml
+PopularThreshold
+200
+xml
+RegisteredVersion
+V0.0
+xml
+RegisteredOS
+xxx
+/
+aaa.txt
