@@ -1,4 +1,6 @@
-v1.3/PGLData.exe
+v1.4/PGLData.exe
 PGLData.exe
-v1.3/PGLData.exe.Config
+v1.4/PGLData.exe.Config
 PGLData.exe.Config
+v1.4/PGLToolUpdateV1.0.exe
+Update/PGLToolUpdateV1.0.exe
