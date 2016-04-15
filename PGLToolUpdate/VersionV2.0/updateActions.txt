@@ -17,4 +17,3 @@ https://3ds.pokemon-gl.com/frontendApi/gbu/getSeasonPokemonDetail
 change
 Referer
 https://3ds.pokemon-gl.com/battle/
-
