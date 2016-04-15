@@ -1,5 +1,7 @@
-v1.4/PGLData.exe
+v1.5/PGLData.exe
 PGLData.exe
+v1.5/PGLToolUpdateV2.0.exe
+Update/PGLToolUpdateV2.0.exe
 /
 Update/PGLToolUpdate.exe
 xml
